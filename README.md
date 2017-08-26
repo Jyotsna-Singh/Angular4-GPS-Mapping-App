@@ -1,6 +1,29 @@
 # RunJournal
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.1.
+A simple GPS route mapping application using Angular JS 4. Used the Angular CLI to scaffold the project and then create custom Components and Services to build an application with a list of runs with calculated totals, and a detail view with a customized map containing a route loaded from GPX data .
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
+
+## Live/Deployed on heroku
+[![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](https://ng-run-journal.herokuapp.com/)
+
+<p align="center">
+  <br><br>
+  <img src="https://github.com/Jyotsna-Singh/Angular4-GPS-Mapping-App/blob/master/src/assets/demo.gif" />
+</p>
+
+
+## Clone/Download
+
+`git clone https://github.com/Jyotsna-Singh/Angular4-PhotoGallery.git`
+
+## License
+MIT License
+
+<p align="center">
+  <br><br>
+  <img src="https://github.com/Jyotsna-Singh/Jyotsna-Singh/blob/master/assets/img/angular.png" width="300px" height="auto" />
+</p>
 
 ## Development server
 
