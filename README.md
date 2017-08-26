@@ -15,7 +15,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Clone/Download
 
-`git clone https://github.com/Jyotsna-Singh/Angular4-PhotoGallery.git`
+`git clone https://github.com/Jyotsna-Singh/Angular4-GPS-Mapping-App.git`
 
 ## License
 MIT License
