@@ -9,7 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 <p align="center">
   <br><br>
-  <img src="https://github.com/Jyotsna-Singh/Angular4-GPS-Mapping-App/blob/master/src/assets/demo.gif" />
+  <img src="https://github.com/Jyotsna-Singh/Angular4-GPS-Mapping-App/blob/master/src/assets/img/demo.gif" />
 </p>
 
 
